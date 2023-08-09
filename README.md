@@ -38,6 +38,7 @@ Secure delete algorithms work by overwriting the data with new data, making it m
 <br>
 It's important to note that secure delete algorithms are not foolproof and may not be able to completely erase all traces of the original data. Advanced data recovery techniques may still be able to recover some or all of the original data. However, using a secure delete algorithm can make it much more difficult to recover the data and can provide an additional layer of security.
 <br>
+
 Data is not deleted its just overwritten
 
 ## Why is it not useful to use on an SSD?
